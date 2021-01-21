@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Example Content"
+title: "Example MarkDown"
 author: "Inela"
 tags: ["jekyll", "docs", "example", "content"]
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.
 
 # Headers
 {% highlight markdown %}
@@ -86,6 +84,12 @@ _This is an image with a caption_
 
 # Code and Syntax Highlighting
 Use back-ticks for `inline code`. Multi-line code snippets are supported too through Pygments.
+
+{% highlight swift %}
+//Sample Swift
+var s = "Swift syntax highlighting"
+print(s)
+{% endhighlight %}
 
 {% highlight js %}
 // Sample javascript code
