@@ -1,13 +1,13 @@
 # Site settings
 title:          Develop Log
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
+description:    "noihaus develop log"
 url:            https://noihaus.github.io
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         noihaus
+  email:        sky2174@gmail.com
+  url:          https://github.com/noihaus
 
 # Build settings
 markdown:       kramdown
@@ -34,7 +34,6 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
-  twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  email: sky2174@gmail.com
+  github: https://github.com/noihaus
+  linkedin: https://www.linkedin.com/in/kyungsik-yoo-334162130/
